@@ -1,0 +1,24 @@
+{
+  "timeZone": "Europe/London",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/script.storage"
+  ],
+  "urlFetchWhitelist": [
+    "https://api.monday.com/"
+  ],
+  "dataStudio": {
+    "name": "Monday.com",
+    "company": "Modus Transform Ltd",
+    "companyUrl": "https://modustransform.com",
+    "addonUrl": "https://github.com/braggcolin/monday-looker-studio-connector",
+    "supportUrl": "https://github.com/braggcolin/monday-looker-studio-connector/issues",
+    "description": "A free, open-source Looker Studio community connector for Monday.com. Dynamically connects any Monday.com board to Looker Studio without any hardcoding or configuration beyond your API key and board ID.",
+    "logoUrl": "https://raw.githubusercontent.com/braggcolin/monday-looker-studio-connector/main/Logo%20Light%20160px%20square.png",
+    "sources": [],
+    "templates": {}
+  }
+}
