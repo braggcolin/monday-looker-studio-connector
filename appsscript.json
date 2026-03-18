@@ -16,9 +16,14 @@
     "companyUrl": "https://modustransform.com",
     "addonUrl": "https://github.com/braggcolin/monday-looker-studio-connector",
     "supportUrl": "https://github.com/braggcolin/monday-looker-studio-connector/issues",
+    "shortDescription": "Connect any Monday.com board to Looker Studio. No coding required — just your API key and board ID.",
     "description": "A free, open-source Looker Studio community connector for Monday.com. Dynamically connects any Monday.com board to Looker Studio without any hardcoding or configuration beyond your API key and board ID.",
     "logoUrl": "https://raw.githubusercontent.com/braggcolin/monday-looker-studio-connector/main/Logo%20Light%20160px%20square.png",
-    "sources": [],
+    "authType": ["KEY"],
+    "feeType": "FREE",
+    "privacyPolicyUrl": "https://github.com/braggcolin/monday-looker-studio-connector/blob/main/PRIVACY_POLICY.md",
+    "termsOfServiceUrl": "https://github.com/braggcolin/monday-looker-studio-connector/blob/main/TERMS_OF_SERVICE.md",
+    "sources": ["MONDAY"],
     "templates": {}
   }
 }
