@@ -17,13 +17,19 @@
     "addonUrl": "https://mondayconnector.modustransform.com",
     "supportUrl": "https://github.com/braggcolin/monday-looker-studio-connector/issues",
     "logoUrl": "https://mondayconnector.modustransform.com/logo.png",
-    "shortDescription": "Connect any Monday.com board to Looker Studio. No coding required — just your API key and board ID.",
+    "shortDescription": "Free, open-source connector for Monday.com. No coding required.",
     "description": "A free, open-source Looker Studio community connector for Monday.com. Dynamically connects any Monday.com board to Looker Studio without any hardcoding or configuration beyond your API key and board ID.",
-    "authType": ["KEY"],
-    "feeType": ["FREE"],
+    "authType": [
+      "KEY"
+    ],
+    "feeType": [
+      "FREE"
+    ],
     "privacyPolicyUrl": "https://mondayconnector.modustransform.com/PRIVACY_POLICY",
     "termsOfServiceUrl": "https://mondayconnector.modustransform.com/TERMS_OF_SERVICE",
-    "sources": ["MONDAY"],
+    "sources": [
+      "MONDAY"
+    ],
     "templates": {}
   }
 }
