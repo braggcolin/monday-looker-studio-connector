@@ -92,7 +92,6 @@ To get Items, Subitems, and Updates for the same board, repeat the **Add data** 
 ## Calculated Field: Clickable Links
 
 For link and file columns, combine the two split fields into a clickable hyperlink using a Looker Studio calculated field:
-
 ```
 HYPERLINK(col_mylink_url, col_mylink_value)
 ```
@@ -121,6 +120,13 @@ Then reconnect the data source in Looker Studio to enter your new key.
 ## Contributing
 
 Pull requests are welcome. If you find a bug or want to request a feature, please open an issue on GitHub.
+
+---
+
+## Legal
+
+- [Privacy Policy](https://mondayconnector.modustransform.com/PRIVACY_POLICY)
+- [Terms of Service](https://mondayconnector.modustransform.com/TERMS_OF_SERVICE)
 
 ---
 
