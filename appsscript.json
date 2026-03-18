@@ -21,8 +21,8 @@
     "description": "A free, open-source Looker Studio community connector for Monday.com. Dynamically connects any Monday.com board to Looker Studio without any hardcoding or configuration beyond your API key and board ID.",
     "authType": ["KEY"],
     "feeType": "FREE",
-    "privacyPolicyUrl": "https://mondayconnector.modustransform.com/privacy-policy",
-    "termsOfServiceUrl": "https://mondayconnector.modustransform.com/terms-of-service",
+    "privacyPolicyUrl": "https://mondayconnector.modustransform.com/PRIVACY_POLICY",
+    "termsOfServiceUrl": "https://mondayconnector.modustransform.com/TERMS_OF_SERVICE",
     "sources": ["MONDAY"],
     "templates": {}
   }
